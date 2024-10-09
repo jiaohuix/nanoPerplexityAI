@@ -1,0 +1,9 @@
+googlesearch-python 
+requests
+beautifulsoup4 
+lxml
+backoff
+openai 
+groq 
+serpapi
+dotenv
